@@ -1,0 +1,2 @@
+# HibernateOneOneBidirectionalSharedPrimarykey
+Hibernate Associations - One-One Bidirectional SharedPrimarykey
